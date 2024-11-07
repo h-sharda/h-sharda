@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm an engineering student, and I am currently learning desktop application development and game development  
+I'm an engineering student, and I am currently learning desktop application development and android development, with a keen interest in Dara Structures and Algorithms  
 
 ---
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshit-sharda/)](https://www.linkedin.com/in/harshit-sharda/) 
