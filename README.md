@@ -3,11 +3,9 @@
 I'm an engineering student, and I am currently learning desktop application development and game development  
 
 ---
-
-### Contact me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshit-sharda/)](https://www.linkedin.com/in/harshit-sharda/) 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshitsharda0@gmail.com)](mailto:harshitsharda0@gmail.com)
-
+[![LeetCode](https://img.shields.io/badge/LeetCode-hsharda-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/hsharda/)
 ---
 
 ## Languages and Tools
@@ -28,9 +26,5 @@ I'm an engineering student, and I am currently learning desktop application deve
 | Git                                                                                                                                           | GitHub                                                                                                                                                    | MS Office                                                                                                                                           | 
 |-----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------| 
 | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Microsoft_Office_logo_%282013–2019%29.svg" title="MS Office" alt="MS Office" width="55" height="55"/> | 
-
----
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-hsharda-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/hsharda/)
 
 ---
