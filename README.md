@@ -12,15 +12,15 @@ I'm an engineering student, and I am currently learning desktop application deve
 ---
 
 ## Languages:
-| C | C++ | Java | Kotlin | Python |
-| - | --- | ---- | ------ | ------ |
+| C | C++ | Java | Kotlin | Python | XML | HTML | CSS | Javascript |
+| - | --- | ---- | ------ | ------ | --- | ---- | --- | ---------- |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="55" height="55"/>  |<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |
 
 ---
 
 ## Frameworks/Libraries:
-| Java Swing | JavaFX | FastAPI | Numpy | Pandas | Matplotlib |
-| ---------- | ------ | ------- | ----- | ------ | ---------- |
+| Java Swing | JavaFX | Selenium | FastAPI | Numpy | Pandas | Matplotlib |
+| ---------- | ------ | -------- | ------- | ----- | ------ | ---------- |
 | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java Swing" alt="Java Swing" width="85" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JavaFX" alt="JavaFX" width="55" height="55"/> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-plain-wordmark.svg" title="FastAPI" alt="FastAPI" width="55" height="55"/> </p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib" width="55" height="55"/> </p> |
 
 ---
