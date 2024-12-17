@@ -11,6 +11,10 @@ I'm an engineering student, and I am currently learning desktop application deve
 
 ---
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=h-sharda&theme=darcula&bg_color=00&hide_border=true" width="100%"/>
+
+---
+
 ## Languages:
 | C | C++ | Java | Kotlin | Python | XML | HTML | CSS | Javascript |
 | - | --- | ---- | ------ | ------ | --- | ---- | --- | ---------- |
@@ -31,3 +35,11 @@ I'm an engineering student, and I am currently learning desktop application deve
 | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Android Studio" width="105" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Microsoft_Office_logo_%282013–2019%29.svg" title="MS Office" alt="MS Office" width="75" height="55"/> |
 
 ---
+
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=h-sharda&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 45%; margin-bottom: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-sharda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 45%;"/>
+
+---
+
+ ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=h-sharda&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
