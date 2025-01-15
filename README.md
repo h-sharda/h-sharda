@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm an engineering student, and I am currently learning desktop application development and android development, with a keen interest in Data Structures and Algorithms  
+I'm an engineering student, and I am currently learning Web Development using MERN stack, with a keen interest in Data Structures and Algorithms  
 
 ---
 
