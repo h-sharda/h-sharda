@@ -4,6 +4,9 @@ I'm an engineering student, and I am currently learning Web Development using ME
 
 ---
 
+## Portfolio  
+[![Portfolio](https://hsharda.vercel.app/images/icons/favicon_io/favicon-32x32.png)](https://hsharda.vercel.app/)
+
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshit-sharda/)](https://www.linkedin.com/in/harshit-sharda/) 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshitsharda0@gmail.com)](mailto:harshitsharda0@gmail.com)
