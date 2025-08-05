@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm an engineering student, and I am currently learning Web Development using MERN stack, with a keen interest in Data Structures and Algorithms  
+Learning Stuff
 
 ---
 
