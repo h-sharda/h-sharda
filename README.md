@@ -2,6 +2,8 @@
 
 Learning Stuff
 
+![](https://komarev.com/ghpvc/?username=h-sharda)
+
 ---
 
 ## Portfolio  
