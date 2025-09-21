@@ -10,7 +10,7 @@ Learning Stuff
 [![Portfolio](https://hsharda.vercel.app/images/icons/favicon_io/favicon-32x32.png)](https://hsharda.vercel.app/)
 
 ## Socials
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshit-sharda/)](https://www.linkedin.com/in/harshit-sharda/) 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/h-sharda/)](https://www.linkedin.com/in/h-sharda/) 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshitsharda0@gmail.com)](mailto:harshitsharda0@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-hsharda-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/hsharda/)
 
